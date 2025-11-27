@@ -5,53 +5,53 @@ This project analyzes 150+ volleyball match events, performs data cleaning, gene
 
 📌 Project Overview
 
-This project demonstrates:
+ This project demonstrates:
 
-Data cleaning & preprocessing using pandas
+• Data cleaning & preprocessing using pandas
 
-Statistical summaries and player-level insights
+• Statistical summaries and player-level insights
 
-Visualizations using matplotlib
+• Visualizations using matplotlib
 
-End-to-end sports analytics workflow
+• End-to-end sports analytics workflow
 
-Real-world usage of structured sports datasets
+• Real-world usage of structured sports datasets
 
-Perfect for data analytics, ML, and AI beginner portfolio.
+• Perfect for data analytics, ML, and AI beginner portfolio.
 
 📁 Dataset
 
 volleyball_stats_with_names.csv includes:
 
-Player
+• Player
 
-Team
+• Team
 
-Match ID
+• Match ID
 
-Kills
+• Kills
 
-Blocks
+• Blocks
 
-Aces
+• Aces
 
-Attacks
+• Attacks
 
-Errors
+• Errors
 
-Efficiency
+• Efficiency
 
 Dataset is synthetic for learning purposes.
 
 🔧 Tech Stack
 
-Python
+• Python
 
-Pandas
+• Pandas
 
-Matplotlib
+• Matplotlib
 
-Jupyter Notebook
+• Jupyter Notebook
 
 📊 Features & Visualizations
 ✔ Top 10 Players by Kills
